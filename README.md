@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Josna
 
-<!--
-**codeby-josna/codeby-josna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **B.Tech CSE student** exploring AI/ML, Python development, and building real-world applications.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Machine Learning fundamentals  
+- Natural Language Processing  
+- Data analysis & visualization  
+- Python app development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects
+- **Diary App (Tkinter + PostgreSQL):** Login system, mood tagging, theme customization  
+- **YouTube Data Analysis:** EDA, insights, visualizations  
+- **Python Mini Projects:** Built during internships and personal curiosity  
+
+### 🔧 Tech Stack
+**Languages:** Python, SQL, Java (Basic)  
+**Libraries:** Pandas, NumPy, Matplotlib, Tkinter  
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Eclipse IDE  
+**Database:** PostgreSQL, pgAdmin 
+
+### ✨ A little about me
+- I love making apps that feel *personal* and interactive  
+- AI/ML is my current obsession  
+- I break code, fix code, break it again, then somehow it works  
+- And yes, I’m always learning something new 😅
+
+### 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/josna-john-32a1a1324)
