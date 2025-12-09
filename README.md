@@ -11,7 +11,7 @@ I'm a **B.Tech CSE student** exploring AI/ML, Python development, and building r
 ### 💻 Projects
 - **Diary App (Tkinter + PostgreSQL):** Login system, mood tagging, theme customization  
 - **YouTube Data Analysis:** EDA, insights, visualizations  
-- **Python Mini Projects:** Built during internships and personal curiosity  
+- **Python Mini Projects:** Built during internships  
 
 ### 🔧 Tech Stack
 **Languages:** Python, SQL, Java (Basic)  
