@@ -1,29 +1,16 @@
-# Hi there 👋 I'm Josna
+## Hi 👋 I'm Josna
 
-I'm a **B.Tech CSE student** exploring AI/ML, Python development, and building real-world applications.
+A CSE student who likes mixing  
+code, creativity, and curiosity.
 
-### 🌱 Currently Learning
-- Machine Learning fundamentals  
-- Natural Language Processing  
-- Data analysis & visualization  
-- Python app development  
+🌱 Currently learning and experimenting with:
+- AI / Machine Learning  
+- Python and problem-solving  
+- Data and how it tells stories  
 
-### 💻 Projects
-- **Diary App (Tkinter + PostgreSQL):** Login system, mood tagging, theme customization  
-- **YouTube Data Analysis:** EDA, insights, visualizations  
-- **Python Mini Projects:** Built during internships  
-
-### 🔧 Tech Stack
-**Languages:** Python, SQL, Java (Basic)  
-**Libraries:** Pandas, NumPy, Matplotlib, Tkinter  
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Eclipse IDE  
-**Database:** PostgreSQL, pgAdmin 
-
-### ✨ A little about me
-- I love making apps that feel *personal* and interactive  
-- AI/ML is my current obsession  
-- I break code, fix code, break it again, then somehow it works  
-- And yes, I’m always learning something new 😅
+🎨 artsy by heart, coder by choice  
+🌱 learning, experimenting, evolving  
+💭 figuring things out as I go  
 
 ### 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/josna-john-32a1a1324)
